@@ -1,0 +1,9 @@
+.coursesSectionContainer{
+    margin-top: 32px;
+}
+
+/* dark mode  */
+
+.newestCourses.dark{
+    color: white;
+}
